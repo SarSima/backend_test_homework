@@ -9,7 +9,5 @@ print(res2)
 #x = 3
 #while x>0:q
 #    print(x)
-#    x +=1
-print('Back')
-print('asd')
-print('test recet')
+#    x +=1git
+print('1334')
